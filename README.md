@@ -7,15 +7,16 @@
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://gemfarm.gg" target="_blank">Gem Farm</a>.</h4>
+<h4 align="center">A script for crancking gem-farm fixed rate farms <a href="http://gemfarm.gg" target="_blank">Gem Farm</a>.</h4>
 
 
 <p align="center">
-    <a href="https://docs.gemworks.gg/">Documentation</a> •
   <a href="#why-do-you-need-this-script">Why?</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#license">License</a> •
+  <a href="https://docs.gemworks.gg/">Documentation</a> •
+
 </p>
 
 
